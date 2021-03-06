@@ -1,6 +1,6 @@
-# Semtit
+# Stigen
 
-Semtit is a Seminar Title Generator that utilize either AI or good ol' if else conditional statement. Result will be provided via Restful API.
+Stigen is a Seminar Title Generator that utilize either AI or good ol' if else conditional statement. Result will be provided via Restful API.
 
 ## Directory Architecture
 
